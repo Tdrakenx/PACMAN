@@ -8,7 +8,6 @@ Classic Pac-Man gameplay.
 Customizable maze designs.
 Ghost AI for challenging gameplay.
 High score tracking.
-[Add any additional features here]
 
 Installation
 
@@ -18,7 +17,9 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/Tdrakenx/PACMAN.git
-[Add any specific instructions for dependencies or environment setup]
+You have to install modules like :
+-Pygame : sudo apt-get install pygame
+-threading : sudo apt-get install threading
 
 Usage
 
@@ -27,13 +28,10 @@ Once installed, you can run the Pac-Man game with the following commands:
 bash
 Copy code
 cd PACMAN
-[run_command]
-[Include any additional instructions or configuration details here]
 
 Controls
 
-Move Pac-Man: [Specify controls]
-[Include any other control details]
+Move Pac-Man: 
 Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
@@ -43,5 +41,5 @@ Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/your-feature).
 Open a pull request.
 License
-This Pac-Man Game Project is licensed under the [Your License] - see the LICENSE file for details.
+This Pac-Man Game Project is licensed under the  - see the LICENSE file for details.
 
